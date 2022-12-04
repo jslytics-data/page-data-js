@@ -1,3 +1,4 @@
+<script>
 // Create an object to hold the library's functions
 var library = {};
 
@@ -78,3 +79,4 @@ pageData.h1Value = document.querySelector('h1').innerHTML;
 
 // Return the page data
 return pageData;
+</script>
